@@ -45,7 +45,7 @@ const ContactSection = () => {
   };
 
     return (
-      <section style={{ backgroundColor: 'black', color: 'white', display: 'flex', flexDirection:"row",justifyContent: 'center' }}>
+      <section style={{ backgroundColor: 'black', color: 'white', display: 'flex', flexDirection:"row",justifyContent: 'center',paddingBottom:"0px" }}>
         <div className='horizontal-to-vertical' style={{maxWidth:"85%"}}>
             <div style={{ flex: 1,padding:"10px" }}>
               <h3 style={{color:"#FFB924",fontSize:"calc(10px + 2vw)"}}>About</h3>

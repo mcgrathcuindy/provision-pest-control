@@ -7,6 +7,7 @@ import ProcessDetails from './components/ProcessDetails';
 import ForbesStatistic from './components/ForbesStatistic';
 import ContactSection from './components/ContactSection';
 import Header from "./components/Header";
+import Footer from "./components/Footer";
 
 const Home = () => {
   return (
@@ -25,6 +26,8 @@ const Home = () => {
         <ForbesStatistic />
 
         <ContactSection />
+
+        <Footer />
       </div>
       
     </div>
