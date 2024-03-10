@@ -56,7 +56,7 @@ const ContactSection = () => {
                 </p>
               </div>
               <p>
-              Husband to Hannah, and father to two kiddos, Ruthie and Rias. Zach started Provision Pest Control soon after his son's open heart surgery. Owning his own business has enabled him to be on call for customers with emergencies, take the time that's actually needed to fix pest problems, and meet amazing new customers - like you!
+              Husband to Hannah, and father to two kiddos, Ruthie and Rias. Zach started Provision Pest Control soon after his son&apos;s open heart surgery. Owning his own business has enabled him to be on call for customers with emergencies, take the time that&apos;s actually needed to fix pest problems, and meet amazing new customers - like you!
               </p>
             </div>
 

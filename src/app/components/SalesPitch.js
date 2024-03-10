@@ -7,13 +7,13 @@ const SalesPitch = () => {
       <div className='horizontal-to-vertical'>
         <div style={{ textAlign: 'left', padding: '20px' }}>
           <div style={{ borderRight: '3px solid white', paddingRight: '30px' }}>
-            <h1 style={{ fontWeight: 'lighter' }}>It’s time for </h1>
+            <h1 style={{ fontWeight: 'lighter' }}>It&apos;s time for </h1>
             <h2>peace of mind</h2>
           </div>
         </div>
         <div style={{ textAlign: 'left', padding: '20px', alignSelf:"center" }}>
             <h3 style={{display:"inline-block"}}>Bad news:</h3>
-            <span style={{marginLeft:"8px",display:"inline-block",fontSize:"calc(14px + 2vw)", fontWeight:"lighter"}}>You’ve got pests.</span>
+            <span style={{marginLeft:"8px",display:"inline-block",fontSize:"calc(14px + 2vw)", fontWeight:"lighter"}}>You&apos;ve got pests.</span>
             <br></br>
             <h3 style={{ color: '#FFB924',display:"inline-block" }}>Good news:</h3>
             <span style={{marginLeft:"8px",display:"inline-block", fontSize:"calc(14px + 2vw)", fontWeight:"lighter"}}>We can help!</span>
