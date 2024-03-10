@@ -49,7 +49,7 @@ const ContactSection = () => {
         <div className='horizontal-to-vertical' style={{maxWidth:"85%"}}>
             <div style={{ flex: 1,padding:"10px" }}>
               <h3 style={{color:"#FFB924",fontSize:"calc(10px + 2vw)"}}>About</h3>
-              <div style={{textAlign:"center"}}>
+              <div style={{textAlign:"center" }}>
                 <img src="images/family.jpg" style={{textAlign:"center",width:"50%",borderRadius:"100%",margin:"auto"}}/>
                 <p style={{fontWeight:"bold"}}>
                   Meet Zach!
@@ -59,7 +59,7 @@ const ContactSection = () => {
               Husband to Hannah, and father to two kiddos, Ruthie and Rias. Zach started Provision Pest Control soon after his son's open heart surgery. Owning his own business has enabled him to be on call for customers with emergencies, take the time that's actually needed to fix pest problems, and meet amazing new customers - like you!
               </p>
             </div>
-            
+
       
             <div style={{ flex: 1,padding:"10px" }}>
               <h3 style={{color:"#FFB924",fontSize:"calc(10px + 2vw)"}}>Contact Info</h3>
