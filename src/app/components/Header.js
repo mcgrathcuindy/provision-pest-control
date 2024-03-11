@@ -11,7 +11,7 @@ const Header = () => {
   return (
     <div style={{
         position: "fixed",
-        right: "0",
+        right: "3%",
         top: "0",
         padding: "20px",
         display: "flex",
