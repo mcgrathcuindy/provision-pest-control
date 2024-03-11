@@ -17,7 +17,6 @@ const Header = () => {
         display: "flex",
         justifyContent: "flex-end",
         alignItems: "center",
-        width: "100%",
         boxSizing: "border-box",
       }}>
         <p style={{ colo:"black",marginRight: "20px", fontWeight:"bold" }}>Provision Pest Control</p>
